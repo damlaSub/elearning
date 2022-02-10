@@ -1,0 +1,16 @@
+#quiz-button {
+    width: 10%;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #252d4a;
+    border-radius: 15px;
+    display: flex;
+    padding: 5px;
+    justify-content: flex-start;
+    align-items: center;
+    border: 5px solid #234668;
+    cursor: pointer;
+}
+#test {
+color: blanchedalmond;
+}
